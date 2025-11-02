@@ -126,7 +126,6 @@ PyQt5-Qt5==5.15.2
 PyQt5_sip==12.17.0
 PyQtChart==5.15.7
 PyQtChart-Qt5==5.15.2
-python-dateutil==2.9.0.post0
 pywin32==311
 PyYAML==6.0.2
 pyzmq==27.0.0
@@ -177,6 +176,7 @@ wrapt==1.14.2
 xlrd==2.0.2
 xlsxwriter==3.2.5
 zipp==3.23.0
+
 
 
 
