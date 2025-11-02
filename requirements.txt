@@ -88,7 +88,7 @@ networkx==3.2.1
 nltk==3.9.1
 numba>=0.57.2
 numexpr==2.10.2
-numpy>=1.18,<1.24
+numpy>=1.24,<2.0
 numpy-utils==0.1.6
 oauthlib==3.3.1
 openai==2.3.0
@@ -179,6 +179,7 @@ wrapt==1.14.2
 xlrd==2.0.2
 xlsxwriter==3.2.5
 zipp==3.23.0
+
 
 
 
