@@ -67,7 +67,7 @@ keras-nightly==3.10.0.dev2025052003
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.7
 libclang==18.1.1
-llvmlite==0.39.1
+llvmlite==0.41.0
 locket==1.0.0
 lxml==6.0.0
 Markdown==3.9
@@ -170,9 +170,9 @@ threadpoolctl==3.6.0
 toml==0.10.2
 tomli==2.2.1
 toolz==1.0.0
-torch==2.0.1+cu118
-torchaudio==2.0.2+cu118
-torchvision==0.15.2+cu118
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
 tornado==6.5.1
 tqdm==4.67.1
 traitlets==5.14.3
@@ -189,5 +189,6 @@ wrapt==1.14.2
 xlrd==2.0.2
 xlsxwriter==3.2.5
 zipp==3.23.0
+
 
 
